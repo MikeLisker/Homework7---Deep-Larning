@@ -1,4 +1,4 @@
 # Homework7---Deep-Larning
 
-Alejandro Pardo
+Alejandro Pardo//
 Michael Lisker
